@@ -11,10 +11,13 @@ Implementation Details
    >Features: Age, sex, chest pain, blood pressure, cholesterol, ECG, heart rate, exercise-induced angina, etc.
 2. Data Preparation
    >Missing values imputed.
+   
    >Features standardized using StandardScaler.
 3. Model Training
    >Algorithm: Logistic Regression.
+   
    >Split: 80% training, 20% testing.
+   
    >Model fitted on training data.
 4. Evaluation
    >Metrics: Accuracy, precision, recall, F1-score.
