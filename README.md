@@ -2,7 +2,7 @@ Heart Disease Predictor
 
 Project Overview
 
-This project predicts the likelihood of heart disease based on health indicators such as age, cholesterol, blood pressure, and chest pain type. A Logistic Regression model is used for accurate and interpretable classification.
+This project aims to predict the likelihood of heart disease in individuals based on clinical and demographic health parameters such as age, cholesterol levels, blood pressure, chest pain type, and more. Machine learning techniques, specifically Logistic Regression, are employed to build an accurate and interpretable prediction model.
 
 Implementation Details
 1. Data Collection
