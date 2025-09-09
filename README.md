@@ -21,12 +21,16 @@ Implementation Details
    >Model fitted on training data.
 4. Evaluation
    >Metrics: Accuracy, precision, recall, F1-score.
+   
    >Cross-validation and hyperparameter tuning applied.
 5. Tools and Libraries
    >Python, scikit-learn, pandas, numpy.
+   
    >matplotlib, seaborn for visualization.
+   
    >Google Colab / Jupyter Notebook as environment.
 
    
 Aim and Significance
-The aim is to enable early detection of heart disease for better patient care. This project contributes toward developing automated diagnostic tools that support healthcare professionals.
+
+   The aim is to enable early detection of heart disease for better patient care. This project contributes toward developing automated diagnostic tools that support    healthcare professionals.
