@@ -7,6 +7,7 @@ This project predicts the likelihood of heart disease based on health indicators
 Implementation Details
 1. Data Collection
    >Dataset: Heart Disease dataset (UCI).
+   
    >Features: Age, sex, chest pain, blood pressure, cholesterol, ECG, heart rate, exercise-induced angina, etc.
 2. Data Preparation
    >Missing values imputed.
