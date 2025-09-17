@@ -1,29 +1,29 @@
-Heart Disease Predictor
+# **Heart Disease Predictor**
 
-Project Overview
+## **Project Overview**
 
 This project aims to predict the likelihood of heart disease in individuals based on clinical and demographic health parameters such as age, cholesterol levels, blood pressure, chest pain type, and more. Machine learning techniques, specifically Logistic Regression, are employed to build an accurate and interpretable prediction model.
 
-Implementation Details
-1. Data Collection
+## **Implementation Details**
+1. **Data Collection**
    >Dataset: Heart Disease dataset (UCI).
    
    >Features: Age, sex, chest pain, blood pressure, cholesterol, ECG, heart rate, exercise-induced angina, etc.
-2. Data Preparation
+2. **Data Preparation**
    >Missing values imputed.
    
    >Features standardized using StandardScaler.
-3. Model Training
+3. **Model Training**
    >Algorithm: Logistic Regression.
    
    >Split: 80% training, 20% testing.
    
    >Model fitted on training data.
-4. Evaluation
+4. **Evaluation**
    >Metrics: Accuracy, precision, recall, F1-score.
    
    >Cross-validation and hyperparameter tuning applied.
-5. Tools and Libraries
+5. **Tools and Libraries**
    >Python, scikit-learn, pandas, numpy.
    
    >matplotlib, seaborn for visualization.
@@ -31,6 +31,6 @@ Implementation Details
    >Google Colab / Jupyter Notebook as environment.
 
    
-Aim and Significance
+### **Aim and Significance**
 
    The aim is to enable early detection of heart disease for better patient care. This project contributes toward developing automated diagnostic tools that support    healthcare professionals.
